@@ -1,6 +1,6 @@
 # Privacy Policy for Decide For Me - Stop Thinking
 
-**Last Updated: February 12, 2026**
+**Last Updated: February 23, 2026**
 
 ## Overview
 
@@ -8,19 +8,20 @@ Decide For Me - Stop Thinking ("the App") is developed by Mert Can Cibuk. This p
 
 ## Data Collection
 
-**We do not collect any personal data.**
+### Advertising Data
+The free version of the App displays advertisements through Google AdMob. AdMob may collect:
+- Device advertising identifier (IDFA/GAID)
+- General location data (country/region level)
+- Device information (model, OS version)
+- Ad interaction data
 
-The App:
-- Does not require an account or login
-- Does not collect personal information
-- Does not track your location
-- Does not access your contacts, photos, or files
-- Does not use analytics or tracking tools
-- Does not contain advertisements
+This data is collected by Google and is governed by Google's Privacy Policy: https://policies.google.com/privacy
 
-## Data Storage
+### Pro Users
+Users who purchase the Pro upgrade will not see any advertisements, and no advertising-related data will be collected.
 
-The App stores only your last decision locally on your device. This data:
+### App Data
+The App stores your decision history locally on your device. This data:
 - Never leaves your device
 - Is not transmitted to any server
 - Is not accessible to us or any third party
@@ -28,11 +29,18 @@ The App stores only your last decision locally on your device. This data:
 
 ## Third-Party Services
 
-The App does not use any third-party services, SDKs, or APIs.
+| Service | Purpose | Privacy Policy |
+|---------|---------|----------------|
+| Google AdMob | Advertising (free version only) | https://policies.google.com/privacy |
 
 ## Children's Privacy
 
-The App does not collect any data from anyone, including children under 13.
+The App is not directed to children under 13. AdMob is configured to comply with COPPA regulations.
+
+## Your Choices
+
+- **Opt out of personalized ads**: Use your device's "Limit Ad Tracking" or "Opt out of Ads Personalization" setting
+- **Remove all ads**: Purchase the Pro upgrade within the app
 
 ## Changes to This Policy
 
@@ -42,7 +50,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions about this Privacy Policy, please contact:
 
-**Email:** [YOUR_EMAIL]
+**Email:** mertcibuk@gmail.com
 **Developer:** Mert Can Cibuk
 
 ---
